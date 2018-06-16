@@ -106,49 +106,50 @@
 	.detailInfo > div{
 		width:50%;
 		float:left;
-		margin-bottom: 60px;
+		margin-bottom: 50px;
 	}
 	.detailInfo .info{
-		width:95%;
+		width:500px;
+		max-width:550px;
 		margin: 0 auto;
 		margin-bottom: 40px;
 	}
 	.detailInfo .info .detailContent{
 		border-top:4px solid #b2b2b2;
 		border-bottom:4px solid #b2b2b2;
-		margin-top: 20px;
-		padding-top: 15px;
-		padding-bottom: 15px;
+		margin-top: 15px;
+		padding-top: 20px;
+		padding-bottom: 20px;
 	}
 	.detailInfo .info .detailContent .num{
-		font-size: 80px;
+		font-size: 45px;
 		font-weight:bold;
-		margin-top: 60px;
+		margin-top: 30px; 
 	}
 	.detailInfo .info .detailContent .num a{
 		color:#e16f00;
 	}
 	.detailInfo .info .detailContent .smallNum{
-		font-size: 50px;
+		font-size: 35px;
 		font-weight: lighter;
 	}
 	.detailInfo .info .detailContent .timeContent{
-		font-size: 30px;
-		line-height: 50px;
-		padding-top:40px;
+		font-size: 20px;
+		line-height: 40px;
+		padding-top:8px;
 		font-weight: bold;
-		letter-spacing: 1.5px;
+		letter-spacing: 0.5px;
 		
 	}
 	.detailInfo .info .detailContent .timeContent .day{
 		color:#03b9ad;
 	}
 	.detailInfo .info .detailpart{
-		padding-top: 16px;
-		padding-bottom: 16px;
+		padding-top: 13px;
+		padding-bottom: 13px;
 	}
 	.detailInfo .info .infoTitle{
-		font-size: 30px;
+		font-size: 25px;
 		font-weight: bold;
 	}
 	.detailInfo .info .infoTitle .logoTitle{
@@ -156,25 +157,25 @@
 	}
 	.detailInfo .info .infoTitle .titleEng{
 		font-weight: lighter;
-		font-size: 25px;
+		font-size: 18px;
 		color:#f3ad49;
-		margin-left: 3%;
+		margin-left: 20px;
 	}
 	.detailContent .map{
-		width:95%;
+		width:98%;
 		display: block;
 		margin: 0 auto;
 	}
 	.detailContent .time{
-		width:22%;
-		margin-left:65px;
-		margin-right:70px;
+		width:100px;
+		margin-left:40px;
+		margin-right:30px;
 		float:left;
 	}
 	.detailContent .tell{
-		width:22%;
-		margin-left:65px;
-		margin-right:70px;
+			width:100px;
+		margin-left:40px;
+		margin-right:30px;
 		float:left;
 	}
 	.detailContent{
