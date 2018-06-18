@@ -7,12 +7,15 @@
 <title>대구치아교정잘하는곳 더고른치과</title>
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+			<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 @media only screen and (min-width:1100px) {
 	* {
 	margin: 0;
 	padding: 0;
+	font-family: 'NanumSquare','Noto Sans';
 }
 
 header {
@@ -72,6 +75,7 @@ section h1{
 		* {
 	margin: 0;
 	padding: 0;
+	font-family: 'NanumSquare','Noto Sans';
 }
 
 header {
@@ -131,6 +135,7 @@ section h1{
 	* {
 		margin: 0;
 		padding: 0;
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	
 	header {
@@ -622,7 +627,7 @@ section h1{
 		<a href="sub4">4</a>
 		<a href="sub5"  class="check">5</a>
 		<br>
-		<a href="/thegoreun" class="home">home</a>
+		<a href="/" class="home">home</a>
 	</div>
 </body>
 </html>

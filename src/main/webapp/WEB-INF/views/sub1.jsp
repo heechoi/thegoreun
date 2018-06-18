@@ -7,12 +7,15 @@
 <title>대구교정치과 더고른치과</title>
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 @media only screen and (min-width:1100px) {
 	* {
 		margin: 0;
 		padding: 0;
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	header {
 		width: 100%;
@@ -70,6 +73,7 @@
 	* {
 		margin: 0;
 		padding: 0;
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	header {
 		width: 100%;
@@ -126,6 +130,7 @@
 	* {
 		margin: 0;
 		padding: 0;
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	
 	header {
@@ -354,7 +359,7 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">항상 환자분의 입장을 </span>
+			<span style="font-size: 16px" class="normal">항상 환자들의 입장을 </span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -366,7 +371,7 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">체계적인 교정치료에 노력하고 있는데요.</span>
+			<span style="font-size: 16px" class="normal">체계적인 교정치료에 노력하고 있습니다.</span>
 		</p>
 
 		<p
@@ -386,7 +391,7 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">이러한 정확한 진단을 토대로 </span>
+			<span style="font-size: 16px" class="normal">정확한 진단을 토대로 </span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -394,7 +399,7 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">맞춤 치료계획을 합니다.</span>
+			<span style="font-size: 16px" class="normal">맞춤 치료계획을 세웁니다.</span>
 		</p>
 
 		<p
@@ -416,11 +421,7 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">부모님이 동행하지 못한 상황에서도</span>
-		</p>
-
-		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">자녀들이 안전하게 치료를 받고</span>
+			<span style="font-size: 16px" class="normal">보호자가 동행하지 못한 상황에서도</span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -428,11 +429,11 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">문자발송 함으로써 안심하고 </span>
+			<span style="font-size: 16px" class="normal">문자발송 함으로써 </span>
 		</p>
 		
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">더고른치과에 자녀들이 내원할 수
+			<span style="font-size: 16px" class="normal">더고른치과에 안심하고 자녀들이 내원할 수
 				있도록</span>
 		</p>
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -456,7 +457,7 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">환자분들의 치료방향에 도움이 될 수 있도록</span>
+			<span style="font-size: 16px" class="normal">환자들의 치료방향에 도움이 될 수 있도록</span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -470,7 +471,7 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">환자분들과의 빠른 소통을 위해</span>
+			<span style="font-size: 16px" class="normal">환자들과의 빠른 소통을 위해</span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -483,7 +484,7 @@
 			</strong></span>을 통해
 		</p>
 
-		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
+		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-bottom: 15px;">
 			<span style="font-size: 16px" class="normal">실시간 상담을 진행하고 있습니다.</span>
 		</p>
 
@@ -517,13 +518,13 @@
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-			<span style="font-size: 16px" class="normal">만족스러운 치아교정을 받아보세요</span>
+			<span style="font-size: 16px" class="normal">만족스러운 치아교정을 받아보세요!</span>
 		</p>
 	</section>
 	<div class="page">
 		<a href="sub1" class="check">1</a> <a href="sub2">2</a> <a href="sub3">3</a>
 		<a href="sub4">4</a> <a href="sub5">5</a><br> <a
-			href="/thegoreun" class="home">home</a>
+			href="/" class="home">home</a>
 	</div>
 </body>
 </html>

@@ -7,12 +7,15 @@
 <title>대구돌출입교정 더고른치과</title>
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 @media only screen and (min-width:1100px) {
 	* {
 	margin: 0;
 	padding: 0;
+	font-family: 'NanumSquare','Noto Sans';
 }
 
 header {
@@ -72,6 +75,7 @@ section h1{
 		* {
 	margin: 0;
 	padding: 0;
+	font-family: 'NanumSquare','Noto Sans';
 }
 
 header {
@@ -131,6 +135,7 @@ section h1{
 	* {
 		margin: 0;
 		padding: 0;
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	
 	header {
@@ -210,7 +215,7 @@ section h1{
 	<p style="text-align: center;margin-top: 55px;">
 		<span style="font-size: 16px" class="normal"><span
 			style="font-family: &amp; quot;맑은 고딕&amp;quot;">유재석, 김영철, 오나미
-				위 연예인들의</span></span>
+				이 연예인들의</span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -241,24 +246,6 @@ section h1{
 		<img alt="더고른치과"
 			src="${pageContext.request.contextPath}/resources/upload/tjtftf_1.jpg"
 			style="height: 897px; width: 663px" />
-	</p>
-
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">돌출입은 외모 콤플렉스
-				뿐만 아니라 </span></span>
-	</p>
-
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">구강건강에도 영향을 줄 수
-				있습니다. </span></span>
-	</p>
-
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">그러므로 교정치료를 통해
-				교정을 해주어야 합니다. </span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -308,22 +295,21 @@ section h1{
 				치료를 필요로 합니다. </span></span>
 	</p>
 
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
+	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 15px;">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">구강구조 분석을 통해
-				계획을 세우고 </span></span>
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">그러므로 구강구조 분석을 통해
+				치료 계획을 세우고 </span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">올바르게 치료할 수 있는
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">정확하게 치료하는
 		</span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">치과 병원을 선택하는 것이
-				매우 중요합니다. </span></span>
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">치과를 선택해야 합니다. </span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 55px;margin-bottom: 55px;">
@@ -355,7 +341,7 @@ section h1{
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">또한 사후관리까지 책임지며
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">또한, 사후관리까지 책임지며
 		</span></span><span style="font-size: 16px" class="normal"><span
 			style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자들의</span></span>
 	</p>
@@ -376,7 +362,7 @@ section h1{
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">여러분의 원활한
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">원활한
 				의사소통으로 </span></span>
 	</p>
 
@@ -400,7 +386,7 @@ section h1{
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자분들 교정치료 중의
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">교정치료 중의
 				외적인 스트레스를</span></span>
 	</p>
 
@@ -429,7 +415,7 @@ section h1{
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">교정장치에 관한 두려움으로
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">교정장치에 대한 두려움으로
 				인해 </span></span>
 	</p>
 
@@ -464,8 +450,8 @@ section h1{
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">이처럼 단순히 돌출입을
-				교정하는 </span></span>
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">이처럼 단순히 돌출입
+				교정 </span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -480,44 +466,19 @@ section h1{
 		<span style="font-size: 16px" class="normal"><span
 			style="font-family: &amp; quot;맑은 고딕&amp;quot;">섬세하게 생각하는 </span></span><span
 			style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">더고른치과에서 </span></span>
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">대구돌출입교정 치과 더고른치과입니다.</span></span>
+	</p>
+
+
+	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 15px;">
+		<span style="font-size: 16px" class="normal"><span
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자의 모든 부분까지 섬세하게 배려하는 </span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">교정치료를 받는다면 </span></span><span
-			style="font-size: 16px"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">심리적인 안정을 </span></span>
-	</p>
-
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">취하면서 치료과정을 편하게
-				느끼실 수 있습니다. </span></span>
-	</p>
-
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">교정치료라는 긴
-				치료과정에서 심리적인 요인도</span></span>
-	</p>
-
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">치료결과에 중요한 영향을
-				미칩니다. </span></span>
-	</p>
-
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">항상 환자의 입장에서 먼저
-				생각하는 </span></span>
-	</p>
-
-	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
-		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">더고른치과의 의료진의
-				마음이 느껴집니다.</span></span>
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">더고른치과 의료진의
+				마음이 느낄 수 있었습니다.</span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">&nbsp;</p>
@@ -532,9 +493,9 @@ section h1{
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
 			style="font-family: &amp; quot;맑은 고딕&amp;quot;"><span
-				style="color: #e74c3c"><strong>사용</strong></span>하며 </span></span><span
+				style="color: #e74c3c"><strong>사용</strong></span>하여 </span></span><span
 			style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">교정치료를 진행하며 </span></span>
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">교정치료를 진행하고 </span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -552,7 +513,7 @@ section h1{
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
 			style="font-family: &amp; quot;맑은 고딕&amp;quot;"><strong>의사윤리를
-					준수</strong>하며 치료를 진행하고 있습니다.</span></span>
+					준수</strong>하며 치료를 하는 대구돌출입교정 더고른치과 입니다.</span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">&nbsp;</p>
@@ -582,7 +543,7 @@ section h1{
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
 			style="font-family: &amp; quot;맑은 고딕&amp;quot;">직접 방문이
-				부담스러우시다면 </span></span>
+				어려우시다면 </span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -616,8 +577,7 @@ section h1{
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">편안한 마음으로 문의하시기
-				바랍니다.</span></span>
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">편안한 마음으로 문의해 주세요~</span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -628,7 +588,7 @@ section h1{
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px"><span
 			style="font-family: &amp; quot;맑은 고딕&amp;quot;">준비되어 있으니 많은 관심
-				바랍니다.</span></span>
+				부탁드립니다.</span></span>
 	</p>
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">&nbsp;</p>
@@ -642,7 +602,7 @@ section h1{
 
 	<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 		<span style="font-size: 16px" class="normal"><span
-			style="font-family: &amp; quot;맑은 고딕&amp;quot;">치아 건강을 되찾아 삶의
+			style="font-family: &amp; quot;맑은 고딕&amp;quot;">자신감 되찾고 삶의
 				만족도를 높여보세요~</span></span>
 	</p>
 
@@ -675,7 +635,7 @@ section h1{
 		<a href="sub4" class="check">4</a>
 		<a href="sub5">5</a>
 		<br>
-		<a href="/thegoreun" class="home">home</a>
+		<a href="/" class="home">home</a>
 	</div>
 </body>
 </html>

@@ -4,7 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>더 고른 치과</title>
+<title>더고른치과</title>
+<meta name="naver-site-verification" content="d53046e7ecfe442e3b973c1baeb37ec7fc75031d"/>
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/slick/slick.css"/>
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/slick/slick-theme.css?ver=1"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -14,7 +17,7 @@
 @media only screen and (min-width:1100px){
 	*{
 		margin: 0;
-		font-family: "맑은 고딕";
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	a{
 		text-decoration: none;
@@ -99,7 +102,7 @@
 		font-size: 24px;
 	}
 	.detailInfo{
-		width:68%;
+		width:1080px;
 		display:block;
 		margin: 0 auto;
 	}
@@ -205,7 +208,7 @@
 @media only screen and (min-width:768px) and (max-width:1099px){
 *{
 		margin: 0;
-		font-family: "맑은 고딕";
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	a{
 		text-decoration: none;
@@ -392,7 +395,7 @@
 @media only screen and (min-width:320px) and (max-width:767px){
 *{
 		margin: 0;
-		font-family: "맑은 고딕";
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	a{
 		text-decoration: none;

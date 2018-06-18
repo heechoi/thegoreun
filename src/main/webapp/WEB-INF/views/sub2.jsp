@@ -7,12 +7,15 @@
 <title>대구치아교정 더고른치과</title>
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 @media only screen and (min-width:1100px) {
 	* {
 	margin: 0;
 	padding: 0;
+	font-family: 'NanumSquare','Noto Sans';
 }
 
 header {
@@ -72,6 +75,7 @@ section h1{
 		* {
 	margin: 0;
 	padding: 0;
+	font-family: 'NanumSquare','Noto Sans';
 }
 
 header {
@@ -131,6 +135,7 @@ section h1{
 	* {
 		margin: 0;
 		padding: 0;
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	
 	header {
@@ -355,7 +360,7 @@ section h1{
 
 		<p style="text-align: center">
 			<span style="font-size: 16px"  class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자분들의 더 나은
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자들의 더 나은
 					치료과정을 위해 힘쓰는 더고른치과 입니다. </span></span>
 		</p>
 
@@ -363,7 +368,7 @@ section h1{
 
 		<p style="text-align: center">
 			<span style="font-size: 16px"  class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">작년과 올해에 </span></span><span
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;"> 이러한 노력으로 작년과 올해에 </span></span><span
 				style="font-size: 18px" class="big"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;"><strong>대한치과교정학회
 						우수증례상</strong></span></span><span style="font-size: 16px" class="normal"><span
@@ -371,13 +376,7 @@ section h1{
 		</p>
 		<p style="text-align: center">
 			<span style="font-size: 16px"  class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">수상한 경력이 있는
-					것을 보면 </span></span>
-		</p>
-		<p style="text-align: center">
-			<span style="font-size: 16px"  class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">학술연수에 힘쓰고 있다는
-					것을 확인 할 수 있습니다.</span></span>
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">수상하였답니다~ </span></span>
 		</p>
 
 		<p style="text-align: center">&nbsp;</p>
@@ -390,7 +389,7 @@ section h1{
 
 		<p style="text-align: center">
 			<span style="font-size: 16px"  class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">인증된 교정재료만을
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">또한, 인증된 교정재료만을
 					사용하여 안전성 위해 노력하며, </span></span>
 		</p>
 
@@ -463,8 +462,8 @@ section h1{
 
 		<p style="text-align: center">
 			<span style="font-size: 16px"  class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">특별히 한 분을 위한
-					충실하고 정확한 상담인 </span></span>
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">오직 한 분만을 위한
+					특별한 상담인 </span></span>
 		</p>
 
 		<p style="text-align: center">
@@ -492,7 +491,7 @@ section h1{
 		<p style="text-align: center">
 			<span style="font-size: 16px"  class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;">바쁜 맞벌이 부부들을
-					위해 안심할 수 있는&nbsp;</span></span>
+					위한 안심할 수 있는&nbsp;</span></span>
 		</p>
 
 		<p style="text-align: center">
@@ -514,7 +513,7 @@ section h1{
 		</p>
 
 		<p style="text-align: center">
-			<span style="font-size: 16px"  class="normal"><span
+			<span style="font-size: 16px; margin-bottom: 15px;"  class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;">올바른 교정치료를 받을
 					수 있도록 하였습니다. </span></span>
 		</p>
@@ -546,14 +545,14 @@ section h1{
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px"  class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">더고른치과는 대구지하철
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">더고른치과는 대구 지하철
 					2호선 경대병원 역 근처에 위치하여 </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px"  class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자분들이 편리하게
-					치과에 내원하실 수 있도록 하였습니다. </span></span>
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자들이 편리하게
+					치과에 내원할 수 있습니다. </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">&nbsp;</p>
@@ -570,7 +569,7 @@ section h1{
 					더고른치과에 방문하셔서 </span></span>
 		</p>
 
-		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
+		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-bottom: 15px;">
 			<span style="font-size: 16px"  class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;">과학적고 체계적인
 					교정치료 상담 한번 받아보세요.</span></span>
@@ -619,7 +618,7 @@ section h1{
 		<a href="sub4">4</a>
 		<a href="sub5">5</a>
 		<br>
-		<a href="/thegoreun" class="home">home</a>
+		<a href="/" class="home">home</a>
 	</div>
 </body>
 </html>

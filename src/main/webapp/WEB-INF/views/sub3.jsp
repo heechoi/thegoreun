@@ -7,12 +7,15 @@
 <title>대구시내치과 더고른치과</title>
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 @media only screen and (min-width:1100px) {
 	* {
 	margin: 0;
 	padding: 0;
+	font-family: 'NanumSquare','Noto Sans';
 }
 
 header {
@@ -72,6 +75,7 @@ section h1{
 		* {
 	margin: 0;
 	padding: 0;
+	font-family: 'NanumSquare','Noto Sans';
 }
 
 header {
@@ -131,6 +135,7 @@ section h1{
 	* {
 		margin: 0;
 		padding: 0;
+		font-family: 'NanumSquare','Noto Sans';
 	}
 	
 	header {
@@ -248,7 +253,7 @@ section h1{
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;">개개인의 특성에 따른
-					정확한 구강구조를 분석하는 일이 매우 중요하다고 전문가들은 말합니다. </span></span>
+					정확한 구강구조를 분석하고 치료받아야 한다고 전문가들은 말합니다. </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 55px;margin-bottom: 15px;">
@@ -297,22 +302,22 @@ section h1{
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;">체계적인 치료를 진행하는
-					교정치과입니다. </span></span>
+					대구시내치과입니다. </span></span>
 		</p>
 
-		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
+		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 15px;">
 			<span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">장기간의 치료인 만큼
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">장기간의 치료일 뿐만 아니라
 					지속적인 관리가 필요한 교정치료는 </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;">의료진의 관심도에 따라
-					치료의 결과가 달라집니다. </span></span>
+					치료의 결과가 달라진다 해도 과언이 아닙니다.</span></span>
 		</p>
 
-		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
+		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 15px;">
 			<span style="font-size: 16px" class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;">더고른치과 에서는 </span></span><strong><span
 				style="font-size: 18px" class="big"><span
@@ -324,8 +329,8 @@ section h1{
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">치료결과의 만족도를
-					높이는 것에 최선을 다하고 있습니다.</span></span>
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">치료결과 만족도를
+					높이는 고자 최선을 다하고 있습니다.</span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 55px;margin-bottom: 55px;">
@@ -344,18 +349,18 @@ section h1{
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;"><strong><span
-						style="color: null">SCI 국제학술지 연구논문</span></strong>이 등재하며 </span></span>
+						style="color: null">SCI 국제학술지 연구논문</span></strong>을 등재하며 </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;">끊임없이 효과적인
-					치료법에 대해 연구하고 공부합니다. </span></span>
+					치료법에 대해 연구하고 있습니다. </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 15px;">
 			<span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">이러한 노력은 </span></span><span
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">이러한 노력의 결과로 </span></span><span
 				style="font-size: 18px" class="big"><span
 				style="font-family: &amp; quot;맑은 고딕&amp;quot;"><strong>대한
 						치과교정학회에서 우수 증례상을 2년 연속 수상</strong></span></span><span style="font-size: 16px" class="normal"><span
@@ -376,20 +381,20 @@ section h1{
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">또한 안전한 미국,
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">또한 미국,
 					유럽, 일본, 식약청 등의 인증을 받은 </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">우수한품질의 검증된
-					재료만을 사용하며 검증된 치료법을 사용하여 안전한 교정치료를 하고 있습니다. </span></span>
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">우수한품질의 
+					재료만을 사용하고 검증된 치료법을 사용하여 안전한 교정치료를 하고 있습니다. </span></span>
 		</p>
 
-		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
+		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 15px;">
 			<span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">최상의 재료를 사용하여
-					치료의 질적인 면을 높이고 있습니다. </span></span>
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">
+					치료의 질적인 면을 높이는 대구시내치과 더고른치과입니다. </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 15px;">
@@ -403,8 +408,8 @@ section h1{
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자분들의 심신 안정에도
-					도움을 주며 세심한 배려하는 모습도 보여주고 있습니다. </span></span>
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">환자들의 심신 안정에
+					도움을 주는 세심한 모습도 보여주고 있습니다. </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center;margin-top: 55px; margin-bottom: 55px;">
@@ -499,18 +504,18 @@ section h1{
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">또는 전화 상담</span></span><strong><span
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">또는 </span></span><strong><span
 				style="font-size: 18px" class="big"><span
 					style="font-family: &amp; quot;맑은 고딕&amp;quot;">
 						<a href="#" class="big" style="text-decoration: none; color:black;">053-256-0099 </a> </span></span></strong><span style="font-size: 16px" class="normal"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">번호로 전화 주시면 열려
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">번호로 전화 주시면 전화상담이 가능합니다~
 					있으니 </span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
 			<span style="font-size: 16px"><span
-				style="font-family: &amp; quot;맑은 고딕&amp;quot;">궁금하신 점에 친절한
-					답변으로 응답하겠습니다. </span></span>
+				style="font-family: &amp; quot;맑은 고딕&amp;quot;">항상 친절한
+					답변으로 관심에 보답하겠습니다.</span></span>
 		</p>
 
 		<p style="margin-left: 0cm; margin-right: 0cm; text-align: center">
@@ -524,7 +529,7 @@ section h1{
 		<a href="sub1">1</a> <a href="sub2">2</a> <a href="sub3" class="check">3</a> <a
 			href="sub4">4</a> <a href="sub5">5</a>
 			<br>
-		<a href="/thegoreun" class="home">home</a>
+		<a href="/" class="home">home</a>
 	</div>
 </body>
 </html>
