@@ -4,8 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>더고른치과</title>
+<title>더고른치과 블로그-대구치아교정 대구교정치과</title>
+<meta name="description" content="대구 중구 위치, 대구치아교정, 대구교정치과, 대구시내치과">
 <meta name="naver-site-verification" content="d53046e7ecfe442e3b973c1baeb37ec7fc75031d"/>
+<link rel="canonical" href="http://www.thegoreun.com/">
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/slick/slick.css"/>
