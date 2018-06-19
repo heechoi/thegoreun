@@ -8,6 +8,11 @@
 <meta name="description" content="대구 중구 위치, 대구치아교정, 대구교정치과, 대구시내치과">
 <meta name="naver-site-verification" content="d53046e7ecfe442e3b973c1baeb37ec7fc75031d"/>
 <link rel="canonical" href="http://www.thegoreun.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="더고른치과 블로그-대구치아교정 대구교정치과">
+<meta property="og:description" content="대구 중구 위치, 대구치아교정, 대구교정치과, 대구시내치과">
+<meta property="og:image" content="http://www.mysite.com/mainLogo.png">
+<meta property="og:url" content="http://www.thegoreun.com">
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css">
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/slick/slick.css"/>
